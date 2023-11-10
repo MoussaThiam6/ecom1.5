@@ -1,6 +1,6 @@
 <h2>Enregistrement</h2>
 <a href="../">Accueil</a>
-<form action="../result/Signupresult.php" method="post">
+<form action="../result/signupResult.php" method="post">
     <label for="user_name">Nom d'utilisateur</label>
     <input id="user_name" type="text" name="user_name" value="">
     <label for="email">email</label>
